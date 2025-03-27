@@ -1,5 +1,5 @@
 # fsociety
 
 ```
-curl https://maxisandoval37.github.io/fsociety/
+curl fsociety.work.gd
 ```
